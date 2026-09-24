@@ -1,0 +1,18 @@
+{
+  "dataset": "DynamicSuperb/BirdSoundDetection_Warblrb10k",
+  "sr": 16000,
+  "duration": 10.0,
+  "n_samples": 160000,
+  "n_fft": 512,
+  "hop": 256,
+  "n_mels": 64,
+  "fmin": 0.0,
+  "fmax": 8000.0,
+  "mel_scale": "HTK_triangular",
+  "mel_input": "power",
+  "log_compression": "log1p",
+  "grid_f": 6,
+  "grid_t": 8,
+  "seed": 42,
+  "max_examples": 200
+}

@@ -1,0 +1,26 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Audio
+*.wav
+*.flac
+*.mp3
+
+# Model / large derived artifacts
+*.pt
+*.pth
+*.npz
+*.npy
+
+# Old experiment artifacts
+artifacts/
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/
